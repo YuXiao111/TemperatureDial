@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HN9fzC+s1PUuC2BBalzyvSVhHbLry4FXeAPG1mgyh8Xb+GaBYi4Mzg8TOqej/cs0Tpm2Hz9FMAPDm4dow1pfKA==",
+  "success": true,
+  "projectFilePath": "E:\\.Net\\Soft\\TemperatureDial\\DialControlLibrary\\DialControlLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YuXia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\YuXia\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\YuXia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

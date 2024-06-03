@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TemperatureDial/1.0.0": {
+        "dependencies": {
+          "DialControlLibrary": "1.0.0",
+          "SingleCntroLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TemperatureDial.dll": {}
+        }
+      },
+      "DialControlLibrary/1.0.0": {
+        "dependencies": {
+          "SingleCntroLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DialControlLibrary.dll": {}
+        }
+      },
+      "SingleCntroLibrary/1.0.0": {
+        "runtime": {
+          "SingleCntroLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemperatureDial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DialControlLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SingleCntroLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

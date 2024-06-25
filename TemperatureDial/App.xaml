@@ -4,6 +4,32 @@
              xmlns:local="clr-namespace:TemperatureDial"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <Style x:Key="CloseButton"
+               TargetType="{x:Type Button}">
+            <Setter Property="Width"
+                    Value="42" />
+            <Setter Property="Height"
+                    Value="42" />
+            <Setter Property="Background"
+                    Value="Transparent" />
+            <Setter Property="Foreground"
+                    Value="Transparent" />
+            <Setter Property="BorderBrush"
+                    Value="Transparent" />
+            <Setter Property="FocusVisualStyle"
+                    Value="{x:Null}" />
+
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Image Source="Icon\IconA.png"
+                               Width="42"
+                               Height="42" />
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <ResourceDictionary x:Key="Styles"
+                            Source="pack://application:,,,/SingleControlLibrary;component/Styles/RegLabelStyle.xaml" />
     </Application.Resources>
 </Application>

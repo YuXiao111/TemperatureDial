@@ -5,7 +5,7 @@
     <Page Update="Styles\Generic.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Styles\RegLabeStyle.xaml">
+    <Page Update="Styles\RegLabelStyle.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Styles\RegTextBoxStyle.xaml">

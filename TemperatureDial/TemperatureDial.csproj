@@ -9,8 +9,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Icon\IconA.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\DialControlLibrary\DialControlLibrary.csproj" />
     <ProjectReference Include="..\SingleCntroLibrary\SingleCntroLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icon\IconA.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
   </ItemGroup>
 
 </Project>

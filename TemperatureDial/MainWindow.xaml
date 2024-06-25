@@ -41,6 +41,13 @@
                           FontSize="27"
                           Margin="18,25,0,0"
                           Style="{StaticResource RegLabelStyle}" />
+            <Button Style="{StaticResource CloseButton}"
+                    Click="Button_Click"
+                    Canvas.Left="496"
+                    Canvas.Top="22"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center">
+            </Button>
         </Canvas>
 
         <Grid Grid.Row="1">
@@ -49,10 +56,10 @@
                 <ColumnDefinition />
             </Grid.ColumnDefinitions>
 
-            <DCL:MercuryThermometer MaxiMun="50"
-                                    Minimun="-20"
-                                    DisplayValue="25"
-                                    Width="240" />
+            <DCL:MercuryThermometer  MaxiMun="{Binding Path=Max}"
+                                     Minimun="{Binding Path=Min}"
+                                     DisplayValue="{Binding Path=ShowValue}"
+                                     Width="240" />
             <Grid Grid.Column="1">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="4*" />
@@ -60,15 +67,22 @@
                 </Grid.RowDefinitions>
 
                 <DCL:Indicator Width="200"
-                                Grid.Row="0" />
-                <DCL:Regulator Height="279"
-                               Width="240"
-                               Grid.Row="1"
-                               x:Name="Reg"
-                               HorizontalAlignment="Center"
-                               VerticalAlignment="Top"
-                               Canvas.Left="10"
-                               Canvas.Top="10" />
+                                Grid.Row="0"
+                               MaxMark="{Binding Path=Max}"
+                               MinMark="{Binding Path=Min}"
+                               DisplayValue="{Binding Path=ShowValue}" />
+                <Canvas Grid.Row="1">
+                    <DCL:Regulator Height="279"
+                                   Width="240"
+                                   x:Name="Reg"
+                                   MaxInput="{Binding Path=Max,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"
+                                   MinInput="{Binding Path=Mix,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"
+                                   NumOutput="{Binding Path=ShowValue,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Top"
+                                   Canvas.Left="10"
+                                   Canvas.Top="10" />
+                </Canvas>
             </Grid>
         </Grid>
     </Grid>

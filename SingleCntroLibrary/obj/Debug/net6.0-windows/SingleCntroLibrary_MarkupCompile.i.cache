@@ -4,17 +4,17 @@
 library
 C#
 .cs
-E:\.Net\Soft\TemperatureDial\SingleCntroLibrary\obj\Debug\net6.0-windows\
+E:\.Net\Soft\TemperatureDial【git仓库】\SingleCntroLibrary\obj\Debug\net6.0-windows\
 SingleCntroLibrary
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 
-3-1729433450
+31757473129
 
 6691704945
 194211252083
-Styles\Generic.xaml;Styles\RegLabeStyle.xaml;Styles\RegTextBoxStyle.xaml;
+Styles\Generic.xaml;Styles\RegLabelStyle.xaml;Styles\RegTextBoxStyle.xaml;
 
-True
+False
 

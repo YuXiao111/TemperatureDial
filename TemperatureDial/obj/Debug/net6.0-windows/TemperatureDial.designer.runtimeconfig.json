@@ -13,7 +13,8 @@
     ],
     "additionalProbingPaths": [
       "C:\\Users\\YuXia\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\YuXia\\.nuget\\packages"
+      "C:\\Users\\YuXia\\.nuget\\packages",
+      "D:\\WindowsAPP\\VS2022\\Shared\\NuGetPackages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

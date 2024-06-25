@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tRydhzJnYSfN3+GTG6J/364JvNK4UwjR0F6D4xXWnqBNJAkWqDoZgcEPwpaFCKA6i0qCDSIPl0btimBqa8u+ng==",
+  "dgSpecHash": "TChDmHvXzfJ40YX9QrJgCz+KifovnO3kkG/eF2dD5kATIJQGduOmee166XPk0vfTzVNKxdOT5SLS7lqxmuZkqQ==",
   "success": true,
-  "projectFilePath": "E:\\.Net\\Soft\\TemperatureDial\\SingleCntroLibrary\\SingleCntroLibrary.csproj",
+  "projectFilePath": "E:\\.Net\\Soft\\TemperatureDial【git仓库】\\SingleCntroLibrary\\SingleCntroLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YuXia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
     "C:\\Users\\YuXia\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",

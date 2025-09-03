@@ -24,7 +24,7 @@
                             BorderBrush="#CFE2F2"
                             BorderThickness="2"
                             CornerRadius="8">
-                        <ScrollViewer x:Name="PART_CntentHost"
+                        <ScrollViewer x:Name="PART_ContentHost"
                                       HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
                                       VerticalAlignment="{TemplateBinding VerticalContentAlignment}" />
                     </Border>

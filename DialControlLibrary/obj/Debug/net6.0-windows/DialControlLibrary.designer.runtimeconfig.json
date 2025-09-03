@@ -12,7 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\YuXia\\.nuget\\packages"
+      "C:\\Users\\郁啸\\.nuget\\packages",
+      "D:\\VS2022\\Shared\\NuGetPackages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

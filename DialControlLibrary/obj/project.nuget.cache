@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "II/HKhoj+Ze3d/TxOzslWN5YBZpG3Kq561ydRGoCgPXXICoD8M2LRCKEQon1RNgb3hZxIqVFPGZlyvG2A9Ke6Q==",
+  "dgSpecHash": "W7UO1zh2aeQ=",
   "success": true,
-  "projectFilePath": "E:\\.Net\\Soft\\TemperatureDial【git仓库】\\DialControlLibrary\\DialControlLibrary.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\YuXia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\YuXia\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\YuXia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Gits\\U\\温度计\\DialControlLibrary\\DialControlLibrary.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

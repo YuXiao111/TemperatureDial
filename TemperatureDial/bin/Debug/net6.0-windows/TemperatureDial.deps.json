@@ -8,8 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "TemperatureDial/1.0.0": {
         "dependencies": {
-          "DialControlLibrary": "1.0.0",
-          "SingleCntroLibrary": "1.0.0"
+          "DialControlLibrary": "1.0.0"
         },
         "runtime": {
           "TemperatureDial.dll": {}
@@ -20,12 +19,18 @@
           "SingleCntroLibrary": "1.0.0"
         },
         "runtime": {
-          "DialControlLibrary.dll": {}
+          "DialControlLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "SingleCntroLibrary/1.0.0": {
         "runtime": {
-          "SingleCntroLibrary.dll": {}
+          "SingleCntroLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

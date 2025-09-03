@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TemperatureDial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d7d67914ae6e063e11c41f2337fc388e31d3cfe")]
 [assembly: System.Reflection.AssemblyProductAttribute("TemperatureDial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TemperatureDial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

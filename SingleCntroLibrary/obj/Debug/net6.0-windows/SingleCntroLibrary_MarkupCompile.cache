@@ -4,7 +4,7 @@
 library
 C#
 .cs
-E:\.Net\Soft\TemperatureDial【git仓库】\SingleCntroLibrary\obj\Debug\net6.0-windows\
+D:\Gits\U\温度计\SingleCntroLibrary\obj\Debug\net6.0-windows\
 SingleCntroLibrary
 none
 false
@@ -13,7 +13,7 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 31757473129
 
 4-134671145
-194211252083
+194178300874
 Styles\Generic.xaml;Styles\RegLabelStyle.xaml;Styles\RegTextBoxStyle.xaml;
 
 False

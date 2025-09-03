@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-E:\.Net\Soft\TemperatureDial【git仓库】\TemperatureDial\obj\Debug\net6.0-windows\
+D:\Gits\U\温度计\TemperatureDial\obj\Debug\net6.0-windows\
 TemperatureDial
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-E:\.Net\Soft\TemperatureDial【git仓库】\TemperatureDial\App.xaml
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\Gits\U\温度计\TemperatureDial\App.xaml
 11407045341
 
 6-1493506430
-196-353840883
+196455783543
 MainWindow.xaml;
 
 True

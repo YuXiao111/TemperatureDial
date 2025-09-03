@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\YuXia\\.nuget\\packages\\": {},
-    "D:\\WindowsAPP\\VS2022\\Shared\\NuGetPackages": {}
+    "C:\\Users\\郁啸\\.nuget\\packages\\": {},
+    "D:\\VS2022\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.Net\\Soft\\TemperatureDial【git仓库】\\SingleCntroLibrary\\SingleCntroLibrary.csproj",
+      "projectUniqueName": "D:\\Gits\\U\\温度计\\SingleCntroLibrary\\SingleCntroLibrary.csproj",
       "projectName": "SingleCntroLibrary",
-      "projectPath": "E:\\.Net\\Soft\\TemperatureDial【git仓库】\\SingleCntroLibrary\\SingleCntroLibrary.csproj",
-      "packagesPath": "C:\\Users\\YuXia\\.nuget\\packages\\",
-      "outputPath": "E:\\.Net\\Soft\\TemperatureDial【git仓库】\\SingleCntroLibrary\\obj\\",
+      "projectPath": "D:\\Gits\\U\\温度计\\SingleCntroLibrary\\SingleCntroLibrary.csproj",
+      "packagesPath": "C:\\Users\\郁啸\\.nuget\\packages\\",
+      "outputPath": "D:\\Gits\\U\\温度计\\SingleCntroLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\WindowsAPP\\VS2022\\Shared\\NuGetPackages"
+        "D:\\VS2022\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\YuXia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\郁啸\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -32,8 +32,9 @@
         "net6.0-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "net6.0-windows7.0": {
@@ -45,7 +46,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -61,20 +68,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.29, 6.0.29]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.29, 6.0.29]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.29, 6.0.29]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -83,7 +76,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

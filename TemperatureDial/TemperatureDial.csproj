@@ -14,7 +14,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DialControlLibrary\DialControlLibrary.csproj" />
-    <ProjectReference Include="..\SingleCntroLibrary\SingleCntroLibrary.csproj" />
   </ItemGroup>
 
   <ItemGroup>

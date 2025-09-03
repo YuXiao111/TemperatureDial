@@ -76,7 +76,7 @@
                                    Width="240"
                                    x:Name="Reg"
                                    MaxInput="{Binding Path=Max,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"
-                                   MinInput="{Binding Path=Mix,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"
+                                   MinInput="{Binding Path=Min,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"
                                    NumOutput="{Binding Path=ShowValue,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"
                                    HorizontalAlignment="Center"
                                    VerticalAlignment="Top"

@@ -4,16 +4,16 @@
 library
 C#
 .cs
-E:\.Net\Soft\TemperatureDial【git仓库】\DialControlLibrary\obj\Debug\net6.0-windows\
+D:\Gits\U\温度计\DialControlLibrary\obj\Debug\net6.0-windows\
 DialControlLibrary
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 
 3-1492866999
 
 7675727109
-195-1349182246
+195-639438210
 Indicator.xaml;MercuryThermometer.xaml;Regulator.xaml;
 
 True

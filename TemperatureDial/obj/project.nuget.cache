@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/pKFQfdglu8RIh+EEYcaHm1WZf9hRaaE4OFDd4pUIZggQbbTCv/NAinAsEOoR6wcyLn9tQZ3qcFzaYvUD74Txg==",
+  "dgSpecHash": "UQnfgngfjw8=",
   "success": true,
-  "projectFilePath": "E:\\.Net\\Soft\\TemperatureDial【git仓库】\\TemperatureDial\\TemperatureDial.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\YuXia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\YuXia\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\YuXia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\YuXia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Gits\\U\\温度计\\TemperatureDial\\TemperatureDial.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
